@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<ds_sinh_vien>
+    <sinh_vien>
+        <code_sv>231746</code_sv>
+        <ten_sinhvien>Nguyen Van A</ten_sinhvien>
+        <nam_sinh>2005</nam_sinh>
+        <gioi_tinh>nam</gioi_tinh>
+        <class>17A1</class>
+    </sinh_vien>
+    <sinh_vien>
+        <code_sv>231746</code_sv>
+        <ten_sinhvien>Nguyen Van B</ten_sinhvien>
+        <nam_sinh>2005</nam_sinh>
+        <gioi_tinh>nam</gioi_tinh>
+        <class>17A1</class>
+    </sinh_vien>
+    <sinh_vien>
+        <code_sv>231746</code_sv>
+        <ten_sinhvien>Nguyen Van C</ten_sinhvien>
+        <nam_sinh>2005</nam_sinh>
+        <gioi_tinh>nam</gioi_tinh>
+        <class>17A1</class>
+    </sinh_vien>
+</ds_sinh_vien>
